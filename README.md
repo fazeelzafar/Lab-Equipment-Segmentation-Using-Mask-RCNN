@@ -58,17 +58,18 @@ The project uses a Mask R-CNN model with a ResNet-50 backbone, pre-trained on CO
 
 This project utilizes the LabPics dataset. Please cite the dataset appropriately in any derived works:
 
+```bibtex
 @dataset{sagi_eppel_2021_4736111,
-author = {Sagi Eppel and
-Haoping Xu and
-Alan Aspuru-Guzik and
-Mor Bismuth},
-title = {{LabPics dataset for visual understanding of
-Medical and Chemistry Labs}},
-month = may,
-year = 2021,
-publisher = {Zenodo},
-version = 2,
-doi = {10.5281/zenodo.4736111},
-url = {https://doi.org/10.5281/zenodo.4736111}
+  author       = {Sagi Eppel and
+                  Haoping Xu and
+                  Alan Aspuru-Guzik and
+                  Mor Bismuth},
+  title        = {{LabPics dataset for visual understanding of 
+                   Medical and Chemistry Labs}},
+  month        = may,
+  year         = 2021,
+  publisher    = {Zenodo},
+  version      = 2,
+  doi          = {10.5281/zenodo.4736111},
+  url          = {https://doi.org/10.5281/zenodo.4736111}
 }
